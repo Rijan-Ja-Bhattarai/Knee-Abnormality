@@ -1,0 +1,2960 @@
+[
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.10095687747295410396510538520594649149",
+    "ACL": {
+      "status": "0",
+      "evidence": "Ligamentos cruzados y colaterales dentro de límites normales."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Ligamentos cruzados y colaterales dentro de límites normales."
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "conservada, sin signos de rotura."
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Amputación marginal del cuerpo del menisco lateral."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "Cartílagos de los compartimentos femorotibiales sin alteraciones."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "Cartílagos de los compartimentos femorotibiales sin alteraciones."
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "Condropatía focal grado 4"
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Leve derrame articular."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": "No hay quistes poplíteos patológicos."
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": "No hay alteraciones de señal significativas de la médula ósea."
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.10170898615867673028696505248839028269",
+    "ACL": {
+      "status": "0",
+      "evidence": "ACL is intact."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "The MCL is intact."
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "Medial meniscus is not torn."
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Horizontal tear at anterior horn of the lateral meniscus is noted."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "Full thickness cartilage defect, 1.2x1.5cm. at lateral trochlea"
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Moderate joint effusion"
+    },
+    "Synovitis": {
+      "status": "1",
+      "evidence": "Chronic reactive synovitis"
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "1",
+      "evidence": "Osteochondral fracture at lateral patellar facet"
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.10306159113324811538703788080836752052",
+    "ACL": {
+      "status": "0",
+      "evidence": "Anterior cruciate ligament (ACL): Normal with both bundles intact."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Medial collateral ligament (MCL): Normal."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Extensive complete tearing of the body, posterior horn, and posterior root medial meniscus"
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Degenerative signal throughout the lateral meniscus without surfacing tear."
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "Full thickness cartilage loss along the medial femoral condyle and medial tibial plateau"
+    },
+    "Lateral OA": {
+      "status": "1",
+      "evidence": "Mild cartilage heterogeneity and fissuring."
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "High-grade cartilage loss along the medial patellar facet."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Small joint effusion."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": "No Baker's cyst."
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": "No acute fracture or bone bruise."
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": "No acute fracture or bone bruise."
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.11287937729196958426538087439102017580",
+    "ACL": {
+      "status": "0",
+      "evidence": "There is no increased intensity in the ACL, MCL and LCL, it appears to be normal"
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "There is no increased intensity in the ACL, MCL and LCL, it appears to be normal"
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "There is no abnormal intensity or articular surface disrupt in the medial meniscus, It appears to be normal."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "massive joint effusion"
+    },
+    "Synovitis": {
+      "status": "1",
+      "evidence": "Synovitis of left knee"
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.11382021393803389951964005983002209238",
+    "ACL": {
+      "status": "1",
+      "evidence": "Complete tear of the anterior cruciate ligament, at mid substance."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "The medial and lateral collateral ligament complexes are intact."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "longitudinal vertical tear at the body and posterior horn of the medial meniscus"
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "the meniscus is not torn"
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "there is no focal chondrosis or chondral injury."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "there is no focal chondrosis or chondral injury."
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "without chondral lesion."
+    },
+    "Effusion": {
+      "status": "0",
+      "evidence": "No knee effusion is 1."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": "There is no fracture or bone contusion."
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": "There is no fracture or bone contusion."
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.11548045715264151632153040089882701935",
+    "ACL": {
+      "status": "1",
+      "evidence": "Interstitial tear of the anterior cruciate ligament, at mid substance."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "The medial collateral ligament complexes are intact."
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "the meniscus is not torn"
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "complex tear (main radial and longitudinal vertical component) at the posterior horn of the lateral meniscus"
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "there is no focal chondrosis or chondral injury."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "There is no focal chondrosis or chondral injury."
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "without chondral lesion."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Some amount of right knee effusion with hemarthrosis is 1."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "1",
+      "evidence": "Popliteus muscle contusion."
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": "There is no fracture or bone contusion."
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.11557620559191469069130827959098335840",
+    "ACL": {
+      "status": "1",
+      "evidence": "Rotura espesor y ancho total del LCA."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "LCP y ligamentos colaterales sin"
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Aumento de señal central del cuerno posterior y cuerpo del menisco medial"
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Rotura radial incompleta de la unión del cuerno posterior con el cuerpo del menisco lateral."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "El resto de los cartílagos femorotibiales y patelofemorales sin alteraciones."
+    },
+    "Lateral OA": {
+      "status": "1",
+      "evidence": "Condropatía lesiones grado 3 del compartimento femorotibial lateral"
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "El resto de los cartílagos femorotibiales y patelofemorales sin alteraciones."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Leve a moderado derrame articular, probablemente hemartrosis"
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.11771393824519892797114773408583976756",
+    "ACL": {
+      "status": "0",
+      "evidence": "Suspect grade 1 injury of ACL."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Suspect grade 2 injury of MCL"
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "No evidence of tear noted in either medial or lateral meniscus in this study."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "No evidence of tear noted in either medial or lateral meniscus in this study."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Some joint effusion of right knee"
+    },
+    "Synovitis": {
+      "status": "1",
+      "evidence": "Mild synovitis of right knee joint."
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": "suspect bone contusion."
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.11851412923016044948101698015974810604",
+    "ACL": {
+      "status": "0",
+      "evidence": "Anterior cruciate ligament (ACL): Normal with both bundles intact."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Medial collateral ligament (MCL): Normal."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Complete radial tear of the posterior root of medial meniscus"
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Partial inner margin radial tear at the anterior horn/body junction of the lateral meniscus"
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "High-grade cartilage fissuring along the posterior weightbearing medial femoral condyle."
+    },
+    "Lateral OA": {
+      "status": "1",
+      "evidence": "High-grade cartilage fissuring along the posterior lateral tibial plateau."
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "Low-grade cartilage fissuring along the central trochlea."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Small joint effusion."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "1",
+      "evidence": "Trace Baker's cyst."
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "1",
+      "evidence": "Subchondral insufficiency fracture at the medial margin of the medial tibial plateau"
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.11915937982684988073644209606907169581",
+    "ACL": {
+      "status": "0",
+      "evidence": "The anterior and posterior cruciate ligaments are unremarkable."
+    },
+    "MCL": {
+      "status": "1",
+      "evidence": "Low-grade sprain of the medial collateral ligament."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "compatible with intrasubstance degeneration. No frank tear."
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "complex degenerative tear of the lateral meniscus"
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "Moderate thinning of the articular cartilage of the weightbearing femur and tibia."
+    },
+    "Lateral OA": {
+      "status": "1",
+      "evidence": "Full-thickness fissures in the articular cartilage of the tibial weightbearing surface"
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "Multifocal deep and delaminating fissuring of the articular cartilage of the patellar facet"
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Small joint effusion with synovitis."
+    },
+    "Synovitis": {
+      "status": "1",
+      "evidence": "Small joint effusion with synovitis."
+    },
+    "Baker's": {
+      "status": "1",
+      "evidence": "Moderate-sized popliteal cyst with minimal partial rupture."
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": "Bones:\r\nNormal."
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.12448079646359892252441208258836556945",
+    "ACL": {
+      "status": "0",
+      "evidence": ""
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "Condropatía rotuliana."
+    },
+    "Effusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.12505035424093604269515328931488770819",
+    "ACL": {
+      "status": "1",
+      "evidence": "Rotura del LCA."
+    },
+    "MCL": {
+      "status": "1",
+      "evidence": "Rotura parcial del LCM."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Rotura de menisco interno y lateral."
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Rotura de menisco interno y lateral."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Derrame."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "1",
+      "evidence": "Contusiones óseas femorotibiales."
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.12606657226568558340797193167488111973",
+    "ACL": {
+      "status": "1",
+      "evidence": "Complete tear of the anterior cruciate ligament, at mid substance."
+    },
+    "MCL": {
+      "status": "1",
+      "evidence": "Grade II ligamentous sprain (partial tear) of the medial collateral ligament."
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "the meniscus is not torn"
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "longitudinal vertical oblique tear at the posterior horn of the lateral meniscus"
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "there is no focal chondrosis or chondral injury."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "There is no focal chondrosis or chondral injury."
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "without chondral lesion."
+    },
+    "Effusion": {
+      "status": "0",
+      "evidence": "No knee effusion is 1."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": "There is no fracture or bone contusion."
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": "There is no fracture or bone contusion."
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.12801308844398614687904447633432197492",
+    "ACL": {
+      "status": "0",
+      "evidence": "Φυσιολογικά απεικονίζονται οι πλάγιοι και χιαστοί σύνδεσµοί."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Φυσιολογικά απεικονίζονται οι πλάγιοι και χιαστοί σύνδεσµοί."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "εκφυλισττική ρήξη του µηνίσκου στο έσω διαµέρισµα"
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "Εκφυλιστική οστεοαρθρίτιδα"
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "Από τον έλεγχο του πρόσθιου διαµερίσµατος δεν σηµειώνονται παθολογικά ευρήµατα."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Παρατηρείται µέτρια ποσότητα υγρού ενδαρθρικά"
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "1",
+      "evidence": "ευµεγέθη πολύχωρη συνοβιακή κύστη Baker"
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "1",
+      "evidence": "Μικροδοκιδώδη κατάγµατα ανεπάρκειας"
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.12978510157202852202776899910529174803",
+    "ACL": {
+      "status": "0",
+      "evidence": "Кръстните връзки са със запазена цялост."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "Нормално представени менискуси."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "Нормално представени менискуси."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "Хрущялът, покриващ ставните повърхности на костите е съхранен."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "Хрущялът, покриващ ставните повърхности на костите е съхранен."
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "Хрущял на пателата, ретинакулуми – нормално представени."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Минимален ставен излив."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "1",
+      "evidence": "Контузионен костномозъчен едем."
+    },
+    "Fracture": {
+      "status": "1",
+      "evidence": "МР данни за фрактура на тибията"
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.13267780356245120052411517053322874891",
+    "ACL": {
+      "status": "1",
+      "evidence": "Grade 2 injury of anterior cruciate ligament."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Both medial & lateral collateral ligaments appear to be within normal."
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "Medial meniscus appears to be normal."
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Tear of anterior horn of lateral meniscus."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Some joint effusion"
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "1",
+      "evidence": "fibular head fracture with bone contusion."
+    },
+    "Fracture": {
+      "status": "1",
+      "evidence": "Tibia plateau fracutre and fibular head fracture"
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.13335129881737731410081002627729200903",
+    "ACL": {
+      "status": "1",
+      "evidence": "Gevorderde muco ïde degeneratie van de voorste kruisband"
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Degeneratief voorkomen laterale meniscus"
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "Matig mediaal femorotibiaal kraakbeenlijden"
+    },
+    "Lateral OA": {
+      "status": "1",
+      "evidence": "Gevorderd lateraal femorotibiaal kraakbeenlijden"
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "matig femoropatellair kraakbeenlijden"
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "op heden met hydrops"
+    },
+    "Synovitis": {
+      "status": "1",
+      "evidence": "chronische synovitis"
+    },
+    "Baker's": {
+      "status": "1",
+      "evidence": "Popliteale cyste"
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.15593638897292057356864060466120253309",
+    "ACL": {
+      "status": "1",
+      "evidence": "Transformación quística parcial del tercio proximal del LCA."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "LCP y ligamentos colaterales dentro de límites"
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Signos de una rotura del menisco medial"
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Rotura compleja del cuerno anterior, cuerpo y cuerno posterior del menisco lateral"
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "Úlceras condrales de espesor parcial y total de la región central de la zona de carga del cóndilo femoral"
+    },
+    "Lateral OA": {
+      "status": "1",
+      "evidence": "Úlceras condrales espesor parcial de la región central del platillo tibial lateral."
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "Condropatía lesiones grado 2 y 3 de la rótula."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Leve derrame articular con discreta sinovitis."
+    },
+    "Synovitis": {
+      "status": "1",
+      "evidence": "Leve derrame articular con discreta sinovitis."
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": "No hay quistes poplíteos."
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": "No hay alteraciones de señal significativas de la médula ósea."
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.16060119389060497136231217718921482192",
+    "ACL": {
+      "status": "0",
+      "evidence": "ACL normal."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "MCL normal."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Medial meniscus tear."
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Lateral meniscus tear."
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "Incipient OA of all three compartmens."
+    },
+    "Lateral OA": {
+      "status": "1",
+      "evidence": "Incipient OA of all three compartmens."
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "Incipient OA of all three compartmens."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Large effusion."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "1",
+      "evidence": "Baker's cyst 1."
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "1",
+      "evidence": "Insufficient fracture of medial femoral condyl"
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.17844546765907321649997094867791102711",
+    "ACL": {
+      "status": "0",
+      "evidence": "yüksek olasılıkla tam kat-tam kata yakın yırtık ile birlikte."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Arka çapraz ve yan bağlar normal."
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "Medyal menisküs ve lateral menisküs normal."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "Medyal menisküs ve lateral menisküs normal."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "Eklem kıkırdakları ve kemikler bunların dışında normal."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "Eklem kıkırdakları ve kemikler bunların dışında normal."
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "Eklem kıkırdakları ve kemikler bunların dışında normal."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Diz eklemi içi sıvı miktarı hafif derecede artmış."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "1",
+      "evidence": "kemik kontüzyonu mevcut."
+    },
+    "Fracture": {
+      "status": "1",
+      "evidence": "subkondral kırığı"
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.18392509497170616983977319528036573378",
+    "ACL": {
+      "status": "1",
+      "evidence": "Anterior çapraz bağ komplet rüptürü."
+    },
+    "MCL": {
+      "status": "1",
+      "evidence": "Medial kollateral ligamanda grade I sprain."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Medial ve lateral menisküste grade II meniskopati."
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Medial ve lateral menisküste grade II meniskopati."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Suprapatellar bursa ve diz eklem mesafesinde sıvı artışı izlenmiştir."
+    },
+    "Synovitis": {
+      "status": "1",
+      "evidence": "diz ekleminde hafif sinovit."
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "1",
+      "evidence": "Tibia ve femurda kissing kontüzyon"
+    },
+    "Fracture": {
+      "status": "1",
+      "evidence": "femurda subartiküler fraktür."
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.22109739962224309418874538994436903404",
+    "ACL": {
+      "status": "0",
+      "evidence": "Anterior cruciate ligament (ACL): Normal with both bundles intact."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Medial collateral ligament (MCL): Normal."
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "Medial meniscus: Normal in morphology and signal."
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "previous partial meniscectomy. There is irregularity of the inner margin diffusely consistent with recurrent tear."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "Medial compartment cartilage: Cartilage appears intact."
+    },
+    "Lateral OA": {
+      "status": "1",
+      "evidence": "Lateral compartment chondrosis"
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "Chondrosis in the patellofemoral and lateral tibiofemoral compartment."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Small joint effusion."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "1",
+      "evidence": "Moderate Baker cyst with evidence of leakage."
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": "No acute fracture or bone bruise."
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": "No acute fracture or bone bruise."
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.25695966186129395049687747156570466645",
+    "ACL": {
+      "status": "0",
+      "evidence": "Από τον έλεγχο των χιαστών και πλαγίων συνδέσµων δεν παρατηρούνται αξιόλογα ευρήµατα."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Από τον έλεγχο των χιαστών και πλαγίων συνδέσµων δεν παρατηρούνται αξιόλογα ευρήµατα."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Εκφύλιση και ήπιο υπεξάρθρηµα παρατηρείται στον έσω µηνίσκο."
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Απλή εκφύλιση παρατηρείται στον έξω µηνίσκο."
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "Ευρήµατα αρχόµενης εκφυλιστικής οστεοαρθρίτιδας κατά το έσω διαµέρισµα."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "του αρθρικού χόνδρου δεν παρατηρούνται αξιόλογα ευρήµατα."
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "του αρθρικού χόνδρου δεν παρατηρούνται αξιόλογα ευρήµατα."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Συλλογή υγρού παρατηρείται ενδαρθρικά"
+    },
+    "Synovitis": {
+      "status": "1",
+      "evidence": "ήπιας υµενίτιδας"
+    },
+    "Baker's": {
+      "status": "1",
+      "evidence": "µικρή συνοβιακή κύστη Baker"
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": "θα µπορούσε να αποδοθεί σε αρχόµενο µικροδοκιδώδες κάταγµα ανεπάρκειας"
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.26790702379506190936834447203448882465",
+    "ACL": {
+      "status": "1",
+      "evidence": "ACL is ruptured in its mid substance."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Normal PCL, MCL and LCL."
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "Normal medial and lateral menisci."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "Normal medial and lateral menisci."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "The tibiofemoral and patellofemoral articular cartilage is normal."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "The tibiofemoral and patellofemoral articular cartilage is normal."
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "The tibiofemoral and patellofemoral articular cartilage is normal."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "There is a mild knee effusion."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "1",
+      "evidence": "mild residual bone contusion"
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": "Normal visualized remaining bones"
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.27437263843446879932281897446100134924",
+    "ACL": {
+      "status": "0",
+      "evidence": "ACL normal."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "MCL normal."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Medial meniscus tear."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "Lateral meniscus normal."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "Cartilages normal."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "Cartilages normal."
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "Cartilages normal."
+    },
+    "Effusion": {
+      "status": "0",
+      "evidence": "No effusion."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": "No baker's cyst."
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.28925345859498351203477642741908452608",
+    "ACL": {
+      "status": "0",
+      "evidence": "Arka çapraz bağ, çm çapraz bağ , lateral ve medial kollateral ligaman normaldir."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Arka çapraz bağ, çm çapraz bağ , lateral ve medial kollateral ligaman normaldir."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "posterior hornunda yırtık ile uyumlu sinyal değişiklikleri mevcuttur."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "Lateral menisküs normal."
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "Bu düzeyde eklem aralığı belirgin daralmıştır."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Suprapatellar bursada sıvı artışı izlenmiştir."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "1",
+      "evidence": "Baker kisti ile uyumlu görünüm mevcuttur."
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.29764868091238287072166823522853419550",
+    "ACL": {
+      "status": "1",
+      "evidence": "ACL is ruptured."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Normal PCL, MCL and LCL."
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "Normal medial and lateral menisci."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "Normal medial and lateral menisci."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "The tibiofemoral and patellofemoral articular cartilage is normal."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "The tibiofemoral and patellofemoral articular cartilage is normal."
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "The tibiofemoral and patellofemoral articular cartilage is normal."
+    },
+    "Effusion": {
+      "status": "0",
+      "evidence": "Mild effusion."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "1",
+      "evidence": "A bone contusion is noted in the posterolateral corner of the lateral tibial plateau."
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.30246079718471552972130572444383079911",
+    "ACL": {
+      "status": "1",
+      "evidence": "Ön çapraz bağ devamlılığı seçilememiştir (komplet yırtık)."
+    },
+    "MCL": {
+      "status": "1",
+      "evidence": "Lateral ve medial kollateral ligamanlar çevresinde hafif ödematöz görünüm (grade I sprain) izlenmiştir."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Medial menisküste grade II dejenerasyon, radial yırtık ile uyumlu görünüm mevcuttur."
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Lateral menisküste grade II dejenerasyon, kova sapı yırtığı ile uyumlu görünüm mevcuttur."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Suprapatellar bursada ve diz eklemi içerisinde yaygın sıvı artışı izlenmiştir."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "1",
+      "evidence": "yaygın kontüzyonel kemik iliği ödemleri izlenmiştir."
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.32321830776739689645700555055955725945",
+    "ACL": {
+      "status": "1",
+      "evidence": "υφολικής (σχεδόν πλήρους) ρήξης."
+    },
+    "MCL": {
+      "status": "1",
+      "evidence": "µερικής ρήξης (grade 2)."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Εκφύλιση παρατηρείται στο οπίσθιο κέρας του έσω µηνίσκου."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "στο πλαίσιο αρχόµενης οστεοαρθρίτιδας."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "στον έσω αρθρικό χόνδρο της επιγονατίδας"
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Ικανή ποσότητα ενθαρθρικής συλλογής υγρού."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "1",
+      "evidence": "παριστά οστικό µώλωπα"
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.37040910196459054543310335064167212742",
+    "ACL": {
+      "status": "1",
+      "evidence": "ACL tear."
+    },
+    "MCL": {
+      "status": "1",
+      "evidence": "Grade 2 injury of MCL"
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Meniscal tear in the body and posterior horn of medial meniscus"
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "suspect posterior root tear of lateral meniscus."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Joint effusion and suprapatellar bursitis"
+    },
+    "Synovitis": {
+      "status": "1",
+      "evidence": "Synovitis of left knee"
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "1",
+      "evidence": "Bone contusion in distal femur, proximal tibia and fibula, and lower pole of patella."
+    },
+    "Fracture": {
+      "status": "1",
+      "evidence": "Subchondral fracture over posterior aspect of medial tibial plateau"
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.37392127307867238524251864751713143683",
+    "ACL": {
+      "status": "0",
+      "evidence": "nakon distenzije ili manje parcijalne rupture."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Medijalni kolateralni ligament je primjerenih intenziteta signala, održanog kontinuiteta."
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "bez evidentne rupture."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "Lateralni menisk je primjerenih intenziteta signala, bez znakova rupture."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "Hondromalacične promjene 1. stupnja hrskavice medijalne fasete patele."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Manja količina izljeva suprapatelarno"
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "1",
+      "evidence": "Baker cista veličine oko 22x12x27 mm"
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": "moguće u sklopu\r\nimpresijske frakture."
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.39500553372517290823815606829518305500",
+    "ACL": {
+      "status": "0",
+      "evidence": "Ligamentos cruzados y colaterales dentro de límites normales."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Ligamentos cruzados y colaterales dentro de límites normales."
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "sin criterios categóricos de rotura."
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Rotura compleja degenerativa del cuerno anterior, cuerpo, cuerno posterior"
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "Condropatía superficial del compartimento femorotibial medial"
+    },
+    "Lateral OA": {
+      "status": "1",
+      "evidence": "Condropatía lesiones grado 3 y 4 del compartimento femorotibial lateral."
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "lesiones grado dos y tres de la rótula."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Leve a moderado derrame articular con mínima sinovitis"
+    },
+    "Synovitis": {
+      "status": "1",
+      "evidence": "Leve a moderado derrame articular con mínima sinovitis"
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": "No hay quistes poplíteos patológicos."
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "1",
+      "evidence": "pequeñas fracturas subcorticales regionales."
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.41600498783384864111179175518614837125",
+    "ACL": {
+      "status": "1",
+      "evidence": "Acute complete tear of the anterior cruciate ligament, at mid substance."
+    },
+    "MCL": {
+      "status": "1",
+      "evidence": "Grade II ligamentous sprain (partial tear) of the medial collateral ligament"
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Buckethandle tear of the medial meniscus."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "Suspicious small longitudinal vertical tear at the periphery posterior horn of the lateral meniscus."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "There is no focal chondrosis or chondral injury."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "without chondral lesion."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Minimal amount of right knee effusion."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "1",
+      "evidence": "Bone contusion at the posterolateral tibial plateau."
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.47921753480592595198052407850568677187",
+    "ACL": {
+      "status": "1",
+      "evidence": "Ön çapraz bağda diffüz sinyal artışı izlendi(miksoid dejenerasyon)."
+    },
+    "MCL": {
+      "status": "1",
+      "evidence": "Medial kollateral ligamen  çevresinde ödematöz görünüm mevcuttur ( grade I sprain )."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Medial menisküs posterior hornda grade III dejenerasyon ve horizontal yırtık izlendi."
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Lateral menisküste grade I dejenerasyon izlendi."
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "Bu düzeyde eklem aralığı daralmıştır."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Suprapatellar bursada ,diz eklemi içerisinde yaygın sıvı artışı izlendi."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "1",
+      "evidence": "subartiküler fraktür hattı"
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.48348615349418615469875801439348424274",
+    "ACL": {
+      "status": "0",
+      "evidence": ""
+    },
+    "MCL": {
+      "status": "1",
+      "evidence": "esguince grado II del componente superficial del ligamento colateral medial."
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "re1ar una lesión parcial regional."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "El menisco lateral es de morfología y señal conservada, sin signos de rotura."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "Cartílagos de los compartimentos femorotibiales y patelofemorales sin alteraciones."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "Cartílagos de los compartimentos femorotibiales y patelofemorales sin alteraciones."
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "Cartílagos de los compartimentos femorotibiales y patelofemorales sin alteraciones."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Leve derrame articular."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "1",
+      "evidence": "Pequeño quiste poplíteo."
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": "No hay alteraciones de señal significativas de la médula ósea."
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.48946580946665031852355005294734101132",
+    "ACL": {
+      "status": "1",
+      "evidence": "High-grade partial-thickness tear of the anterior cruciate ligament."
+    },
+    "MCL": {
+      "status": "1",
+      "evidence": "Low-grade partial tear of the medial collateral ligament."
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "The medial meniscus is intact."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "The lateral meniscus is intact."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "Preserved medial and lateral femorotibial articular cartilage."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "Preserved medial and lateral femorotibial articular cartilage."
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "Mild patellofemoral chondrosis."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Small knee joint effusion."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.54977581323931277817074741182670080450",
+    "ACL": {
+      "status": "0",
+      "evidence": "Ligamentos cruzados y colaterales dentro de límites normales."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Ligamentos cruzados y colaterales dentro de límites normales."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Aumento de señal central del cuerno posterior y cuerpo del menisco medial"
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Rotura compleja del menisco lateral"
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "Cartílagos del compartimento femorotibial medial y de la tróclea femoral sin"
+    },
+    "Lateral OA": {
+      "status": "1",
+      "evidence": "Condropatía lesiones grado 2 y 3 de la zona de carga del compartimento femorotibial lateral."
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "Condropatía rotuliana superficial."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Leve derrame articular con mínima sinovitis"
+    },
+    "Synovitis": {
+      "status": "1",
+      "evidence": "Leve derrame articular con mínima sinovitis"
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": "No hay alteraciones en significativas de la médula ósea."
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.56512564464301544960446419143135447363",
+    "ACL": {
+      "status": "0",
+      "evidence": "ACL normal."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "MCL normal."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Medial meniscus mucoid degeneration."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "Lateral meniscus normal."
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "OA of medial compartment."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Effusion with synovitis."
+    },
+    "Synovitis": {
+      "status": "1",
+      "evidence": "Effusion with synovitis."
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": "No baker's cyst."
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.59483999067816153759785789654766826710",
+    "ACL": {
+      "status": "1",
+      "evidence": "МР данни за руптура на предната кръстна връзка."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "Менискуси – без особености."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "Менискуси – без особености."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "Ставният хрущял е интактен."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "Ставният хрущял е интактен."
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "Ставният хрущял е интактен."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Хеморагичен излив в ставата."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "1",
+      "evidence": "Контузионен костно-мозъчен едем"
+    },
+    "Fracture": {
+      "status": "1",
+      "evidence": "МР данни за фрактура в областта на латералното тибиално плато"
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.62465595376489211274225312453216559395",
+    "ACL": {
+      "status": "1",
+      "evidence": "Complete rupture of the ACL."
+    },
+    "MCL": {
+      "status": "1",
+      "evidence": "Complete rupture of the MCL at the level of the medial jointline."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "vertical tear in the periphery of the posterior horn of the medial meniscus"
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "No lateral meniscal tear."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "Medial compartment cartilage is intact."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "Slight chondrosis medial patella."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Small joint effusion."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "1",
+      "evidence": "Tiny bone bruise posterior aspect lateral tibial plateau."
+    },
+    "Fracture": {
+      "status": "1",
+      "evidence": "Subchondral fracture in the lateral tibial plateau"
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.62549354677638403845904556149868367236",
+    "ACL": {
+      "status": "1",
+      "evidence": "Volledige ruptuur van de voorste kruisband"
+    },
+    "MCL": {
+      "status": "1",
+      "evidence": "Parti ële scheur proximaal op het mediale collaterale ligament"
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "Normaal voorkomen menisci."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "Normaal voorkomen menisci."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "Normaal voorkomen kraakbeen."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "Normaal voorkomen kraakbeen."
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "Normaal voorkomen kraakbeen."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Matige opzetting van suprapatellaire recessus."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "1",
+      "evidence": "Minstens botcontusie"
+    },
+    "Fracture": {
+      "status": "1",
+      "evidence": "Impactiefractuur op centraal dragende deel van de laterale femorale condylen"
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.64408609256163127278435484217683272910",
+    "ACL": {
+      "status": "1",
+      "evidence": "umjereno do teško degenerativno promijenjen."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Lateralni i medijalni kolateralni ligamenti su primjerenih intenziteta signala, održanog"
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "kompleksna ruptura s radijalnom i horizontalnom komponentom"
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Lateralni menisk bez znakova rupture blaže degenerativno promijenjen"
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "erozivne promjene zglobne hrskavice medijalnog kompartmenta"
+    },
+    "Lateral OA": {
+      "status": "1",
+      "evidence": "hondromalacija II° hrskavice lateralnog tibijalnog platoa"
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "lateralne fasete patele."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Manja količina izljeva u zglob."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "1",
+      "evidence": "Baker cista veličine 22x31x37 mm"
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.64703506772167798469048460791472465039",
+    "ACL": {
+      "status": "1",
+      "evidence": "low-grade partial ligamentous tear."
+    },
+    "MCL": {
+      "status": "1",
+      "evidence": "Complete tear of the superficial portion"
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "small horizontal oblique tear extending to the femoral surface."
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "small Wrisberg rip-type longitudinal tear"
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "Degenerative changes:\r\nNone."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "Degenerative changes:\r\nNone."
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "Degenerative changes:\r\nNone."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Large joint effusion."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": "Baker cyst: None."
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "1",
+      "evidence": "Comminuted mildly displaced avulsion fracture of the tibial spine"
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.65708905118633339771181857781063784327",
+    "ACL": {
+      "status": "0",
+      "evidence": "the anterior cruciate ligament is intact."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "The medial collateral ligament complexes are intact."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Radial tear at the posterior root of the medial meniscus."
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "small horizontal tear at the anterior horn of the lateral meniscus."
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "diffuse high grade and low grade chondrosis"
+    },
+    "Lateral OA": {
+      "status": "1",
+      "evidence": "focal high grade chondrla defectat mid lateral tibial plateau"
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "diffuse low grade and high grade chondrosis"
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Some amount of left knee effusion with synovitis is 1."
+    },
+    "Synovitis": {
+      "status": "1",
+      "evidence": "Some amount of left knee effusion with synovitis is 1."
+    },
+    "Baker's": {
+      "status": "1",
+      "evidence": "baker's cyst at the posteromedial aspect of left knee."
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.67188121544063723837669983597453941774",
+    "ACL": {
+      "status": "0",
+      "evidence": "parsiyel rüptürü düşündüren devamsızlık"
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Lateral ve medial kollateral ligaman normaldir."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Medial menisküs posterior hornda radial yırtık hattı izlenmiştir."
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Lateral menisküste grade II dejenerasyon saptanmıştır."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "artmış efüzyon mevcuttur."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.69392348385274125385290015404144639002",
+    "ACL": {
+      "status": "0",
+      "evidence": ""
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "Condropatía rotuliana."
+    },
+    "Effusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.72853333220043794904856138561095171921",
+    "ACL": {
+      "status": "0",
+      "evidence": "Anterior cruciate ligament (ACL): No tear."
+    },
+    "MCL": {
+      "status": "1",
+      "evidence": "Medial collateral ligament (MCL): Grade 2 injury."
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "Medial meniscus: No tear."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "Lateral meniscus: No tear."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "Medial compartment cartilage: Intact."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "Lateral compartment cartilage: Intact."
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "Mild patellofemoral compartment chondrosis."
+    },
+    "Effusion": {
+      "status": "0",
+      "evidence": "No joint effusion."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": "No Baker's cyst."
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": "likely a contusion."
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": "No acute fracture."
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.73527530686853911124431549317032662220",
+    "ACL": {
+      "status": "1",
+      "evidence": "C/W ACL tear."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Both medial & lateral collateral ligaments appear to be within normal."
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "R/O Ramp lesion or peripheral longitudinal tear of posterior horn of medial meniscus."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "Grade 3-4 chondromalacia"
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Moderate joint effsuion"
+    },
+    "Synovitis": {
+      "status": "1",
+      "evidence": "synovitis of right knee"
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "1",
+      "evidence": "Bone contusion in right distal femur and proximal tibia"
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": "R/O subchondral fracture of lateral femoral condyle."
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.73926443729786165628848843707532839995",
+    "ACL": {
+      "status": "0",
+      "evidence": "VKB, HKB, MCL und LCL intakt und physiologisch signalgebend."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "VKB, HKB, MCL und LCL intakt und physiologisch signalgebend."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "lineare radiale Läsion der Pars intermedia des Innenmeniskus"
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Geringer Gelenkerguss."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "1",
+      "evidence": "Baker-Zyste"
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.75187434248356774277526985329346125190",
+    "ACL": {
+      "status": "1",
+      "evidence": "пълна руптура на предната кръстна връзка"
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Двата колатерални лигамента са с правилна форма, хомогенна структура и сигнален интензитет"
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "руптура на задния рог на медиалния менискус."
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "дегенеративни промени в задния рог на латералния менискус."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "Ставният хрущял, покриващ тибията и латералния кондил на бедрената кост, е със запазена дебелина и конгруентност."
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "Патела, хрущял на пателата, ретинакулуми – б.о."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "МР данни за ставен излив."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "1",
+      "evidence": "малка еднокамерна Бекерова киста"
+    },
+    "Contusion": {
+      "status": "1",
+      "evidence": "Травматичен костно-мозъчен едем."
+    },
+    "Fracture": {
+      "status": "1",
+      "evidence": "остеохондрална фрактура в областта на медиалния кондил на бедрената кост."
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.77362718298550276679350855963451855003",
+    "ACL": {
+      "status": "0",
+      "evidence": "ACL normal."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "MCL normal."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Medial meniscus tear."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "Lateral meniscus normal."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "Cartilages normal."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "Cartilages normal."
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "Cartilages normal."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Mild effusion."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": "No Baker's cyst."
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.78512215519177850923279235346968676828",
+    "ACL": {
+      "status": "0",
+      "evidence": "može odgovarati manjoj intrasupstancijskoj rupturi."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Lateralni i medijalni kolateralni ligamenti urednog signala te se prate u kontinuitetu."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Vertikalna ruptura stražnjeg roga medijalnog meniska"
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "Lateralni menisk bez znakova degeneracije ili rupture."
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "Hondromalacija II.stupnja lateralnog platoa tibije i hrskavice medijalnog kondila femura."
+    },
+    "Lateral OA": {
+      "status": "1",
+      "evidence": "OA promjene obostrano, izraženije lateralno uz osteofite."
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "PF artrotske promjene"
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Minimalni izljev."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": "Bez znakova poplitealne ciste."
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.82166943552764439138333504456139890254",
+    "ACL": {
+      "status": "1",
+      "evidence": "Chronic complete tear of the anterior cruciate ligament, at mid substance."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "The medial collateral ligament complexes are intact."
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Complex tear (main radial component) at the body and posterior horn of the medial meniscus."
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Complex tear with buckethandle tear at the anterior horn, body and posterior horn of the lateral meniscus."
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "Mild medial tibiofemoral compartmental osteoarthritis"
+    },
+    "Lateral OA": {
+      "status": "1",
+      "evidence": "Focal high grade chondrosis at the the posterolateral tibial plateau"
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "Focal low grade  chondrosis at the medial patellar facet"
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Minimal amount of right knee effusion is 1."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.86968600239724310678905311244945464037",
+    "ACL": {
+      "status": "1",
+      "evidence": "Complete ACL tear."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "The medial & lateral collateral ligaments"
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Tear of posterior horn of medial meniscus."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "Suspected meniscocapsular separation over posterior horn of lateral meniscus."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "Intact patellar cartilage."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Mild to moderate knee joint effusion."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.88077418639301174409926781329613570435",
+    "ACL": {
+      "status": "1",
+      "evidence": "Potpuna ruptura prednjeg križnog ligamenta."
+    },
+    "MCL": {
+      "status": "1",
+      "evidence": "Medijalni kolateralni ligament je vretenasto zadebljan"
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Kompleksna ruptura oba meniska"
+    },
+    "Lateral Meniscus": {
+      "status": "1",
+      "evidence": "Kompleksna ruptura oba meniska"
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "Denudacija hrskavice medijalnog kompartmenta"
+    },
+    "Lateral OA": {
+      "status": "1",
+      "evidence": "fisure i erozije hrskavica lateralnog"
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "Hondromalacija III° obje fasete patele i trohleje femura"
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "opsežan zglobni izljev"
+    },
+    "Synovitis": {
+      "status": "1",
+      "evidence": "umjerenu proliferaciju sinovije."
+    },
+    "Baker's": {
+      "status": "1",
+      "evidence": "Poplitealna cista promjera 5 mm."
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.90283565381042081768587894596970552767",
+    "ACL": {
+      "status": "0",
+      "evidence": ""
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Cambios de señal en el menisco interno sin signos de desgarro."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "OA femorotibial medial y lateral."
+    },
+    "Lateral OA": {
+      "status": "1",
+      "evidence": "OA femorotibial medial y lateral."
+    },
+    "PF OA": {
+      "status": "1",
+      "evidence": "OA patelofemoral."
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "Derrame con sinovitis."
+    },
+    "Synovitis": {
+      "status": "1",
+      "evidence": "Derrame con sinovitis."
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": ""
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.94433753471890306108089557761231739312",
+    "ACL": {
+      "status": "0",
+      "evidence": "Normal ACL, PCL, MCL and LCL."
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": "Normal ACL, PCL, MCL and LCL."
+    },
+    "Medial Meniscus": {
+      "status": "0",
+      "evidence": "Normal medial and lateral menisci."
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "Normal medial and lateral menisci."
+    },
+    "Medial OA": {
+      "status": "0",
+      "evidence": "The tibiofemoral and patellofemoral articular cartilage is normal."
+    },
+    "Lateral OA": {
+      "status": "0",
+      "evidence": "The tibiofemoral and patellofemoral articular cartilage is normal."
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": "The tibiofemoral and patellofemoral articular cartilage is normal."
+    },
+    "Effusion": {
+      "status": "0",
+      "evidence": "No significant knee effusion."
+    },
+    "Synovitis": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Baker's": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Contusion": {
+      "status": "0",
+      "evidence": "Normal visualized bones and surrounding soft tissues."
+    },
+    "Fracture": {
+      "status": "0",
+      "evidence": "Normal visualized bones and surrounding soft tissues."
+    }
+  },
+  {
+    "StudyInstanceUID": "1.2.826.0.1.3680043.8.498.97274720257634584071500649275217521662",
+    "ACL": {
+      "status": "1",
+      "evidence": "VKB Ruptur"
+    },
+    "MCL": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Medial Meniscus": {
+      "status": "1",
+      "evidence": "Innenmeniskus mit horizontalem Riss"
+    },
+    "Lateral Meniscus": {
+      "status": "0",
+      "evidence": "DD ebenfalls Mitbeteiligung/knöcherner Ausriss."
+    },
+    "Medial OA": {
+      "status": "1",
+      "evidence": "bei vorrangig Chondropathie."
+    },
+    "Lateral OA": {
+      "status": "1",
+      "evidence": "teils punktuell chondralen Läsionen."
+    },
+    "PF OA": {
+      "status": "0",
+      "evidence": ""
+    },
+    "Effusion": {
+      "status": "1",
+      "evidence": "geringer Gelenkerguss"
+    },
+    "Synovitis": {
+      "status": "1",
+      "evidence": "Reizsynovialitis"
+    },
+    "Baker's": {
+      "status": "1",
+      "evidence": "Flüssigkeit gefüllte Baker-Zyste"
+    },
+    "Contusion": {
+      "status": "1",
+      "evidence": "verbliebenes bone bruise"
+    },
+    "Fracture": {
+      "status": "1",
+      "evidence": "knöchernem Ausriss des posterolateralen Bündels"
+    }
+  }
+]
